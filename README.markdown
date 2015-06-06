@@ -2,7 +2,7 @@
 
 JavaScript percentage calculator that calculates the percent out of a sum and returns the difference.
 Also it outputs the sum that is left after the percentage subtract.  
-For example, if you want to find the 50% out of 100.00$, it will output 50.00 as difference and 50.00 and the leftover sum.
+For example, if you want to find the 50% out of 100.00$, it will output 50.00 as difference and 50.00 as the leftover sum.
 ## Compatibility
 
 Tested:
