@@ -42,8 +42,11 @@ We shall give an example for a voucher system in an e-commerce website.
 ```
 
 ID `offers_discount` is where the user inputs the % they want to subtract from the sum.  
-ID `offers_price` is the original sum.  
+
+ID `offers_price` is the original sum. 
+
 ID `offers_end_price` is the final price with discount  
+
 ID `sum_discounted` returns how much money extactly were subtracted from the original sum.  
 
 Make sure you add the correct IDs otherwise the script will not work. You can also alter them in the `js-percentage-calculator.js` file.
